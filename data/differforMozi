@@ -1,0 +1,2002 @@
+{
+    "http://www.odnoklassniki.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mysql.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nymag.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bluehost.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.lifehacker.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.godaddy.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.elegantthemes.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.kickstarter.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.google.it/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.archives.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.washington.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.163.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.apa.org/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.economist.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.domainname.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nsw.gov.au/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.e-recht24.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sogou.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.adweek.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.opera.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dailymotion.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazonaws.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.geocities.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.aol.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.arstechnica.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.house.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.namejet.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mozilla.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.livedoor.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hbr.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.jugem.jp/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.twitter.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.alibaba.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hollywoodreporter.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.rollingstone.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wordpress.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.scribd.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.domainactive.co/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.biglobe.ne.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sciencemag.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.meetup.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.businessweek.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.etsy.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.safedog.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.accuweather.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nhk.or.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.ca/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cmu.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cnet.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.liveinternet.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.forbes.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.entrepreneur.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.typepad.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hatena.ne.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.telegram.me/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bandcamp.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.box.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.globo.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.target.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.histats.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.rambler.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.chicagotribune.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.politico.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mlb.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.photobucket.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.es/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sedo.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.rt.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.jiathis.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.exblog.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.youronlinechoices.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.psu.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.latimes.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ameblo.jp/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.campaign-archive1.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.myspace.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cpanel.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ap.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.weather.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.opensource.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hostnet.nl/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.joomla.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.admin.ch/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.yandex.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.com.au/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sourceforge.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.state.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wixsite.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.imdb.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.staticflickr.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.t.co/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.example.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wiley.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.clickbank.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.soundcloud.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.gov.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.oracle.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.spiegel.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.windowsphone.com/": {
+        "1234": 2,
+        "useragent2": 3
+    },
+    "http://www.feedburner.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ovh.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.archive.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nydailynews.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.networksolutions.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.adobe.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bigcartel.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.dot.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amzn.to/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazon.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.vimeo.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.office.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.a8.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.home.pl/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.loc.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.uk2.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.foxnews.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wp.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.myshopify.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bbb.org/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.independent.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tumblr.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.allaboutcookies.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.researchgate.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.about.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.qq.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.shinystat.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cam.ac.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dropboxusercontent.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dropbox.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wikipedia.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.free.fr/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazon.co.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.umn.edu/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.addthis.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.columbia.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.go.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dreamhost.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.stumbleupon.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.whitehouse.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cnbc.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cafepress.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.imgur.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.un.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.noaa.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.smugmug.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.usgs.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.booking.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.phpbb.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cornell.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bestfwdservice.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.variety.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.techcrunch.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.github.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.athemes.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sciencedaily.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.blogger.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.creativecommons.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.smh.com.au/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.trustpilot.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.axs.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.hhs.gov/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.live.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dailymail.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.googleusercontent.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.ca.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.php.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.homestead.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.pbs.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.duke.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.usc.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.istockphoto.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.vk.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.macromedia.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.vox.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazon.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.harvard.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.whoisprivacyprotect.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.vice.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.bbc.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.weebly.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wired.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.studiopress.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.businessinsider.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hilton.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ustream.tv/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tripadvisor.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wikimedia.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.naver.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mashable.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.eepurl.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ow.ly/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.barnesandnoble.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nypost.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.shareasale.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.acquirethisname.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.livejournal.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.unc.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.w3.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.geocities.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.usda.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.apple.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.theatlantic.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.co.in/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.51.la/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.who.int/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.oxfordjournals.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bbc.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mailchimp.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.behance.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.reddit.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ucsd.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ftc.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cisco.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.getpocket.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.washingtonpost.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.fr/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nbcnews.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hp.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazon.fr/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.netflix.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.discuz.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sohu.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ascii.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.businesswire.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dell.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.rs6.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.presscustomizr.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.themeforest.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.domainnameshop.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.flickr.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tripod.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ibm.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.icio.us/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sciencedirect.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.state.tx.us/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.bostonglobe.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.plesk.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cryoutcreations.eu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.enable-javascript.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.about.me/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.theverge.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wufoo.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.utexas.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.upenn.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.domeneshop.no/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.ca/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazon.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wordpress.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fastcompany.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.taobao.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.scientificamerican.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.purdue.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.alexa.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wikia.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.weibo.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.livestream.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nytimes.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.webmd.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ucla.edu/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.mail.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.prezi.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cbsnews.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.telegraph.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.list-manage2.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hubspot.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.namebright.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bloomberg.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.t-online.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.visma.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.statcounter.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fda.gov/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.openstreetmap.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.indiatimes.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.disqus.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.list-manage.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.inc.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.nl/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.eventbrite.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nasa.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.instagram.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.theglobeandmail.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.change.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fb.me/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.oecd.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.irs.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.yahoo.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sina.com.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.usatoday.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.zdnet.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.4.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sfgate.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.linkedin.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.newyorker.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.senate.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cpanel.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.time.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.surveymonkey.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.shopify.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wp.me/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.detik.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.vkontakte.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.line.me/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ebay.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.si.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.constantcontact.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cnn.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bizjournals.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ted.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mirror.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.unesco.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.slate.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.usa.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.goodreads.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ox.ac.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ning.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.eventbrite.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.goo.ne.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.gnu.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.marriott.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.pinterest.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.huffingtonpost.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.360.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.doi.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.delicious.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.directdomains.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.yelp.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.uchicago.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.abc.net.au/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nationalgeographic.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.deviantart.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nhs.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.xiti.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.parallels.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.msn.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.icann.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.prweb.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.technorati.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.npr.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.beian.gov.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.slideshare.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ieee.org/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.zendesk.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.github.io/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cloudflare.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.quora.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.newsweek.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.redcross.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.buydomains.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wisc.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.youku.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.1and1.fr/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.epa.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.debian.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.att.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.themegrill.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.goo.gl/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.spotify.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.youtube.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.miibeian.gov.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.umd.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.1and1.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fao.org/": {
+        "1234": 0,
+        "useragent2": 1
+    },
+    "http://www.1und1.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.facebook.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.psychologytoday.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bit.ly/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hibu.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.stanford.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.today.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.intel.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.hostgator.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fc2.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fbcdn.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tinyurl.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.miitbeian.gov.cn/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wikihow.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.examiner.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.squarespace.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fortune.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.worldbank.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tripadvisor.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cdc.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dropcatch.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mapquest.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.1688.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.foursquare.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.gizmodo.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.xing.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nazwa.pl/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.list-manage1.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.co.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.sagepub.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.umich.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.digg.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.berkeley.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wsj.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wix.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.yahoo.co.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.networkadvertising.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.stackoverflow.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.drupal.org/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.cloudfront.net/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.feedly.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.symantec.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fb.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.marketwatch.com/": {
+        "1234": 3,
+        "useragent2": 0
+    },
+    "http://www.mozilla.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.springer.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.guardian.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.yale.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.xinhuanet.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nifty.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.theguardian.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mijndomein.nl/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.dribbble.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.cdbaby.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.cbc.ca/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.baidu.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.paypal.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bola.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mtv.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.uol.com.br/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ok.ru/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.android.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.princeton.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.123-reg.co.uk/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.one.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.microsoft.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nih.gov/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.usnews.com/": {
+        "1234": 0,
+        "useragent2": 3
+    },
+    "http://www.storify.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tmall.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.tandfonline.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ocn.ne.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.doubleclick.net/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.youtu.be/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.fotolia.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.gravatar.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.umblr.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.medium.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.shop-pro.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.evernote.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nyu.edu/": {
+        "1234": 0,
+        "useragent2": 1
+    },
+    "http://www.loopia.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.army.mil/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.webs.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.cbslocal.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.gofundme.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.reuters.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.mit.edu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.rakuten.co.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bmj.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.campaign-archive2.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ed.gov/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.google.pl/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.wunderground.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.buzzfeed.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.va.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.lemonde.fr/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.census.gov/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.loopia.se/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.linksynergy.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.sakura.ne.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.fr/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.apache.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.amazon.ca/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.houzz.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.jimdo.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bing.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.secureserver.net/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.com.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.teamviewer.com/": {
+        "1234": 3,
+        "useragent2": 2
+    },
+    "http://www.aliyun.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.aboutcookies.org/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.boston.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.skype.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.engadget.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.addtoany.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ft.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.com.br/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.samsung.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.prnewswire.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.nature.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.phoca.cz/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.indiegogo.com/": {
+        "1234": 0,
+        "useragent2": 0
+    },
+    "http://www.nps.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.google.de/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.europa.eu/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.com.es/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.blogspot.jp/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.issuu.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.bls.gov/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.ebay.com/": {
+        "1234": 3,
+        "useragent2": 3
+    },
+    "http://www.walmart.com/": {
+        "1234": 3,
+        "useragent2": 3
+    }
+}

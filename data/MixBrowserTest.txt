@@ -1,0 +1,5992 @@
+{
+    "measurements": [
+        {
+            "url": "http://www.facebook.com/",
+            "time": 1509442393.377201,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.facebook.com/",
+            "time": 1509442398.138144,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.twitter.com/",
+            "time": 1509442408.687201,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.twitter.com/",
+            "time": 1509442415.259431,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.com/",
+            "time": 1509442424.644895,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.com/",
+            "time": 1509442429.891942,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youtube.com/",
+            "time": 1509442438.632832,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youtube.com/",
+            "time": 1509442444.090811,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.linkedin.com/",
+            "time": 1509442455.561446,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.linkedin.com/",
+            "time": 1509442460.603646,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wordpress.org/",
+            "time": 1509442468.595856,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wordpress.org/",
+            "time": 1509442473.65367,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.instagram.com/",
+            "time": 1509442485.557416,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.instagram.com/",
+            "time": 1509442490.725759,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.pinterest.com/",
+            "time": 1509442499.710196,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.pinterest.com/",
+            "time": 1509442504.420941,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikipedia.org/",
+            "time": 1509442516.921903,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikipedia.org/",
+            "time": 1509442522.5709,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wordpress.com/",
+            "time": 1509442529.693102,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wordpress.com/",
+            "time": 1509442535.18555,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.com/",
+            "time": 1509442547.476473,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.com/",
+            "time": 1509442552.220511,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.apple.com/",
+            "time": 1509442563.147269,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.apple.com/",
+            "time": 1509442567.058639,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.adobe.com/",
+            "time": 1509442577.505361,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.adobe.com/",
+            "time": 1509442581.847973,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tumblr.com/",
+            "time": 1509442591.72782,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tumblr.com/",
+            "time": 1509442595.908174,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youtu.be/",
+            "time": 1509442630.041934,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youtu.be/",
+            "time": 1509442633.39936,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.com/",
+            "time": 1509442641.371217,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.com/",
+            "time": 1509442646.41972,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vimeo.com/",
+            "time": 1509442668.835615,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vimeo.com/",
+            "time": 1509442672.839925,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.goo.gl/",
+            "time": 1509442686.170107,
+            "Status": 400,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.goo.gl/",
+            "time": 1509442690.121009,
+            "Status": 400,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yahoo.com/",
+            "time": 1509442697.185087,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yahoo.com/",
+            "time": 1509442702.536588,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.microsoft.com/",
+            "time": 1509442718.406833,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.microsoft.com/",
+            "time": 1509442724.099359,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.flickr.com/",
+            "time": 1509442733.831227,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.flickr.com/",
+            "time": 1509442738.035969,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.qq.com/",
+            "time": 1509442748.22251,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.qq.com/",
+            "time": 1509442754.33364,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bit.ly/",
+            "time": 1509442761.131228,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bit.ly/",
+            "time": 1509442765.993403,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.godaddy.com/",
+            "time": 1509442779.637909,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.godaddy.com/",
+            "time": 1509442784.569141,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vk.com/",
+            "time": 1509442793.812864,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vk.com/",
+            "time": 1509442799.652792,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.whoisprivacyprotect.com/",
+            "time": 1509442812.28484,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.whoisprivacyprotect.com/",
+            "time": 1509442843.448248,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.buydomains.com/",
+            "time": 1509442887.527311,
+            "Status": "HTTPSConnectionPool(host='www.buydomains.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.buydomains.com/",
+            "time": 1509442891.599978,
+            "Status": "HTTPSConnectionPool(host='www.buydomains.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.reddit.com/",
+            "time": 1509442904.07779,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.reddit.com/",
+            "time": 1509442908.863225,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.baidu.com/",
+            "time": 1509442927.174905,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.baidu.com/",
+            "time": 1509442933.03128,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.w3.org/",
+            "time": 1509442940.214319,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.w3.org/",
+            "time": 1509442944.632681,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nytimes.com/",
+            "time": 1509442952.551176,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nytimes.com/",
+            "time": 1509442957.360084,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.t.co/",
+            "time": 1509442982.670807,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.t.co/",
+            "time": 1509442986.068956,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.europa.eu/",
+            "time": 1509442992.354571,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.europa.eu/",
+            "time": 1509442997.048488,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.statcounter.com/",
+            "time": 1509443008.362439,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.statcounter.com/",
+            "time": 1509443012.257879,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.weebly.com/",
+            "time": 1509443019.28902,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.weebly.com/",
+            "time": 1509443024.371269,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gov.uk/",
+            "time": 1509443038.071513,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gov.uk/",
+            "time": 1509443041.666372,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bbc.co.uk/",
+            "time": 1509443052.854022,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bbc.co.uk/",
+            "time": 1509443065.723426,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yandex.ru/",
+            "time": 1509443100.017046,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yandex.ru/",
+            "time": 1509443113.697639,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.myspace.com/",
+            "time": 1509443131.627608,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.myspace.com/",
+            "time": 1509443143.414909,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogger.com/",
+            "time": 1509443180.847424,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogger.com/",
+            "time": 1509443186.163018,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.soundcloud.com/",
+            "time": 1509443196.11229,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.soundcloud.com/",
+            "time": 1509443200.301007,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mozilla.org/",
+            "time": 1509443218.372643,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mozilla.org/",
+            "time": 1509443225.428144,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.de/",
+            "time": 1509443232.789068,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.de/",
+            "time": 1509443236.879115,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.github.com/",
+            "time": 1509443245.900123,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.github.com/",
+            "time": 1509443250.966367,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.miitbeian.gov.cn/",
+            "time": 1509443262.390073,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.miitbeian.gov.cn/",
+            "time": 1509443266.841444,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cnn.com/",
+            "time": 1509443281.560573,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cnn.com/",
+            "time": 1509443285.322282,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wix.com/",
+            "time": 1509443312.202958,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wix.com/",
+            "time": 1509443316.355063,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.addthis.com/",
+            "time": 1509443326.446891,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.addthis.com/",
+            "time": 1509443330.848419,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ascii.co.uk/",
+            "time": 1509443338.841945,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ascii.co.uk/",
+            "time": 1509443342.652513,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wp.com/",
+            "time": 1509443352.731692,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wp.com/",
+            "time": 1509443359.575763,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.jimdo.com/",
+            "time": 1509443374.344873,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.jimdo.com/",
+            "time": 1509443378.799898,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.co.jp/",
+            "time": 1509443390.791721,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.co.jp/",
+            "time": 1509443395.718475,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.creativecommons.org/",
+            "time": 1509443403.664282,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.creativecommons.org/",
+            "time": 1509443408.092436,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nih.gov/",
+            "time": 1509443423.730819,
+            "Status": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nih.gov/",
+            "time": 1509443428.039137,
+            "Status": "HTTPSConnectionPool(host='www.nih.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.issuu.com/",
+            "time": 1509443438.236872,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.issuu.com/",
+            "time": 1509443444.059344,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.huffingtonpost.com/",
+            "time": 1509443472.550427,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.huffingtonpost.com/",
+            "time": 1509443476.943185,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.paypal.com/",
+            "time": 1509443514.559486,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.paypal.com/",
+            "time": 1509443520.138616,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cloudflare.com/",
+            "time": 1509443528.422474,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cloudflare.com/",
+            "time": 1509443532.313976,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.123-reg.co.uk/",
+            "time": 1509443546.456663,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.123-reg.co.uk/",
+            "time": 1509443551.497033,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.feedburner.com/",
+            "time": 1509443566.644719,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.feedburner.com/",
+            "time": 1509443571.768264,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bluehost.com/",
+            "time": 1509443581.454565,
+            "Status": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bluehost.com/",
+            "time": 1509443585.4415,
+            "Status": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.digg.com/",
+            "time": 1509443595.178609,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.digg.com/",
+            "time": 1509443598.980834,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wixsite.com/",
+            "time": 1509443609.052766,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wixsite.com/",
+            "time": 1509443614.542746,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.stumbleupon.com/",
+            "time": 1509443625.933872,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.stumbleupon.com/",
+            "time": 1509443629.516376,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theguardian.com/",
+            "time": 1509443638.085749,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theguardian.com/",
+            "time": 1509443643.496713,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.imdb.com/",
+            "time": 1509443658.083941,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.imdb.com/",
+            "time": 1509443662.388152,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.go.com/",
+            "time": 1509443677.282687,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.go.com/",
+            "time": 1509443691.607621,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tinyurl.com/",
+            "time": 1509443711.364501,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tinyurl.com/",
+            "time": 1509443715.941114,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yelp.com/",
+            "time": 1509443731.810948,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yelp.com/",
+            "time": 1509443737.318891,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.forbes.com/",
+            "time": 1509443750.295401,
+            "Status": "HTTPSConnectionPool(host='www.forbes.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.forbes.com/",
+            "time": 1509443754.5066,
+            "Status": "HTTPSConnectionPool(host='www.forbes.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dropbox.com/",
+            "time": 1509443766.747656,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dropbox.com/",
+            "time": 1509443770.746638,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.parallels.com/",
+            "time": 1509443784.818789,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.parallels.com/",
+            "time": 1509443788.955836,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.miibeian.gov.cn/",
+            "time": 1509443798.3248,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.miibeian.gov.cn/",
+            "time": 1509443803.421379,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.msn.com/",
+            "time": 1509443815.851296,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.msn.com/",
+            "time": 1509443821.013643,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.co.uk/",
+            "time": 1509443838.647473,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.co.uk/",
+            "time": 1509443843.110162,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazonaws.com/",
+            "time": 1509443852.473929,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazonaws.com/",
+            "time": 1509443858.162752,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wsj.com/",
+            "time": 1509443871.964208,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wsj.com/",
+            "time": 1509443877.756115,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gravatar.com/",
+            "time": 1509443902.050463,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gravatar.com/",
+            "time": 1509443906.857894,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.washingtonpost.com/",
+            "time": 1509443913.974903,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.washingtonpost.com/",
+            "time": 1509443918.301504,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.slideshare.net/",
+            "time": 1509443929.817968,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.slideshare.net/",
+            "time": 1509443936.357731,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.addtoany.com/",
+            "time": 1509443951.683251,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.addtoany.com/",
+            "time": 1509443955.833425,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.etsy.com/",
+            "time": 1509443963.174533,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.etsy.com/",
+            "time": 1509443967.896027,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.e-recht24.de/",
+            "time": 1509443984.210791,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.e-recht24.de/",
+            "time": 1509443989.763438,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.weibo.com/",
+            "time": 1509444002.008537,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.weibo.com/",
+            "time": 1509444006.320631,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.archive.org/",
+            "time": 1509444023.526239,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.archive.org/",
+            "time": 1509444028.730784,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.eventbrite.com/",
+            "time": 1509444036.097017,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.eventbrite.com/",
+            "time": 1509444041.356424,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.free.fr/",
+            "time": 1509444054.130474,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.free.fr/",
+            "time": 1509444058.026683,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fc2.com/",
+            "time": 1509444068.798992,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fc2.com/",
+            "time": 1509444073.052187,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ameblo.jp/",
+            "time": 1509444081.21377,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ameblo.jp/",
+            "time": 1509444088.231122,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.telegraph.co.uk/",
+            "time": 1509444096.367023,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.telegraph.co.uk/",
+            "time": 1509444100.551977,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sourceforge.net/",
+            "time": 1509444133.39127,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sourceforge.net/",
+            "time": 1509444138.015739,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.livejournal.com/",
+            "time": 1509444157.229999,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.livejournal.com/",
+            "time": 1509444161.37543,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.51.la/",
+            "time": 1509444176.398947,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.51.la/",
+            "time": 1509444182.087291,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bing.com/",
+            "time": 1509444212.890476,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bing.com/",
+            "time": 1509444216.603495,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ebay.com/",
+            "time": 1509444222.550191,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ebay.com/",
+            "time": 1509444227.678755,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mail.ru/",
+            "time": 1509444241.013346,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mail.ru/",
+            "time": 1509444248.587513,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.reuters.com/",
+            "time": 1509444266.874837,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.reuters.com/",
+            "time": 1509444270.886806,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.co.uk/",
+            "time": 1509444299.919244,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.co.uk/",
+            "time": 1509444305.443717,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.typepad.com/",
+            "time": 1509444326.958818,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.typepad.com/",
+            "time": 1509444330.887128,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.about.com/",
+            "time": 1509444337.168647,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.about.com/",
+            "time": 1509444342.018127,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.taobao.com/",
+            "time": 1509444350.450069,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.taobao.com/",
+            "time": 1509444357.701312,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bloomberg.com/",
+            "time": 1509444380.017377,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bloomberg.com/",
+            "time": 1509444384.127116,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dailymail.co.uk/",
+            "time": 1509444397.319761,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dailymail.co.uk/",
+            "time": 1509444401.638069,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yahoo.co.jp/",
+            "time": 1509444424.447589,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yahoo.co.jp/",
+            "time": 1509444430.646328,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.aol.com/",
+            "time": 1509444447.210175,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.aol.com/",
+            "time": 1509444452.761036,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.macromedia.com/",
+            "time": 1509444472.745594,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.macromedia.com/",
+            "time": 1509444476.391123,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sina.com.cn/",
+            "time": 1509444486.566471,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sina.com.cn/",
+            "time": 1509444491.719461,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usatoday.com/",
+            "time": 1509444525.640686,
+            "Status": "HTTPSConnectionPool(host='www.usatoday.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usatoday.com/",
+            "time": 1509444529.234136,
+            "Status": "HTTPSConnectionPool(host='www.usatoday.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikimedia.org/",
+            "time": 1509444555.257846,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikimedia.org/",
+            "time": 1509444559.625746,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.de/",
+            "time": 1509444565.988954,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.de/",
+            "time": 1509444571.453318,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.time.com/",
+            "time": 1509444589.118501,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.time.com/",
+            "time": 1509444592.945891,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.eepurl.com/",
+            "time": 1509444614.47014,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.eepurl.com/",
+            "time": 1509444618.435614,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.constantcontact.com/",
+            "time": 1509444624.140862,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.constantcontact.com/",
+            "time": 1509444628.048094,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cdc.gov/",
+            "time": 1509444641.054556,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cdc.gov/",
+            "time": 1509444645.652612,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.webs.com/",
+            "time": 1509444675.219634,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.webs.com/",
+            "time": 1509444678.796002,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.harvard.edu/",
+            "time": 1509444688.181957,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.harvard.edu/",
+            "time": 1509444693.182568,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.namejet.com/",
+            "time": 1509444705.699624,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.namejet.com/",
+            "time": 1509444709.951814,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.xing.com/",
+            "time": 1509444719.781785,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.xing.com/",
+            "time": 1509444725.093365,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amzn.to/",
+            "time": 1509444740.286873,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amzn.to/",
+            "time": 1509444745.314996,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.latimes.com/",
+            "time": 1509444763.667778,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.latimes.com/",
+            "time": 1509444768.117728,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.npr.org/",
+            "time": 1509444788.633049,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.npr.org/",
+            "time": 1509444792.253353,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.opera.com/",
+            "time": 1509444801.559028,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.opera.com/",
+            "time": 1509444805.294697,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dailymotion.com/",
+            "time": 1509444811.214433,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dailymotion.com/",
+            "time": 1509444816.85103,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.co.uk/",
+            "time": 1509444844.750031,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.co.uk/",
+            "time": 1509444850.310208,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cpanel.net/",
+            "time": 1509444859.613134,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cpanel.net/",
+            "time": 1509444866.620686,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.it/",
+            "time": 1509444910.555079,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.it/",
+            "time": 1509444914.993078,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bbb.org/",
+            "time": 1509444924.469498,
+            "Status": "HTTPSConnectionPool(host='www.bbb.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bbb.org/",
+            "time": 1509444928.644238,
+            "Status": "HTTPSConnectionPool(host='www.bbb.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.icio.us/",
+            "time": 1509444937.885823,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.icio.us/",
+            "time": 1509444941.491281,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tripadvisor.com/",
+            "time": 1509444947.054131,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tripadvisor.com/",
+            "time": 1509444951.526543,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hatena.ne.jp/",
+            "time": 1509444965.373968,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hatena.ne.jp/",
+            "time": 1509444969.534614,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.list-manage.com/",
+            "time": 1509444993.292031,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.list-manage.com/",
+            "time": 1509444997.646758,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.guardian.co.uk/",
+            "time": 1509445003.257902,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.guardian.co.uk/",
+            "time": 1509445008.572372,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mit.edu/",
+            "time": 1509445023.118535,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mit.edu/",
+            "time": 1509445027.268473,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.surveymonkey.com/",
+            "time": 1509445034.70615,
+            "Status": "HTTPSConnectionPool(host='www.surveymonkey.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.surveymonkey.com/",
+            "time": 1509445038.175168,
+            "Status": "HTTPSConnectionPool(host='www.surveymonkey.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rambler.ru/",
+            "time": 1509445045.464948,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rambler.ru/",
+            "time": 1509445050.636844,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.elegantthemes.com/",
+            "time": 1509445067.444909,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.elegantthemes.com/",
+            "time": 1509445071.621576,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bandcamp.com/",
+            "time": 1509445078.506413,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bandcamp.com/",
+            "time": 1509445086.67859,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cpanel.com/",
+            "time": 1509445101.424975,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cpanel.com/",
+            "time": 1509445106.323825,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.co.jp/",
+            "time": 1509445116.154256,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.co.jp/",
+            "time": 1509445121.956453,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.doubleclick.net/",
+            "time": 1509445139.836572,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.doubleclick.net/",
+            "time": 1509445145.441796,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gnu.org/",
+            "time": 1509445155.368885,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gnu.org/",
+            "time": 1509445159.327681,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.apache.org/",
+            "time": 1509445165.246328,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.apache.org/",
+            "time": 1509445168.259311,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.fr/",
+            "time": 1509445175.789627,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.fr/",
+            "time": 1509445179.878952,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.stanford.edu/",
+            "time": 1509445189.254666,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.stanford.edu/",
+            "time": 1509445192.832726,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domainactive.co/",
+            "time": 1509445205.890889,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domainactive.co/",
+            "time": 1509445209.855189,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.businessinsider.com/",
+            "time": 1509445217.045592,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.businessinsider.com/",
+            "time": 1509445221.502197,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.joomla.org/",
+            "time": 1509445247.156867,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.joomla.org/",
+            "time": 1509445252.454408,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wired.com/",
+            "time": 1509445266.028332,
+            "Status": "HTTPSConnectionPool(host='www.wired.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wired.com/",
+            "time": 1509445269.849841,
+            "Status": "HTTPSConnectionPool(host='www.wired.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.kickstarter.com/",
+            "time": 1509445287.996116,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.kickstarter.com/",
+            "time": 1509445292.191466,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bbc.com/",
+            "time": 1509445310.563258,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bbc.com/",
+            "time": 1509445314.490024,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.geocities.com/",
+            "time": 1509445333.033348,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.geocities.com/",
+            "time": 1509445337.226944,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nasa.gov/",
+            "time": 1509445351.886919,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nasa.gov/",
+            "time": 1509445355.996492,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.es/",
+            "time": 1509445369.073079,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.es/",
+            "time": 1509445374.589736,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.behance.net/",
+            "time": 1509445382.876001,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.behance.net/",
+            "time": 1509445386.978767,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.independent.co.uk/",
+            "time": 1509445392.83689,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.independent.co.uk/",
+            "time": 1509445396.616763,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.medium.com/",
+            "time": 1509445418.551149,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.medium.com/",
+            "time": 1509445424.874023,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cnet.com/",
+            "time": 1509445441.272335,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cnet.com/",
+            "time": 1509445445.470679,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tripod.com/",
+            "time": 1509445464.381551,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tripod.com/",
+            "time": 1509445469.316383,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.delicious.com/",
+            "time": 1509445478.586836,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.delicious.com/",
+            "time": 1509445509.73196,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ted.com/",
+            "time": 1509445553.654407,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ted.com/",
+            "time": 1509445557.67059,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.photobucket.com/",
+            "time": 1509445568.084799,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.photobucket.com/",
+            "time": 1509445571.735323,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.googleusercontent.com/",
+            "time": 1509445581.997947,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.googleusercontent.com/",
+            "time": 1509445585.518721,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.scribd.com/",
+            "time": 1509445590.773685,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.scribd.com/",
+            "time": 1509445595.693798,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.imgur.com/",
+            "time": 1509445606.58197,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.imgur.com/",
+            "time": 1509445612.258616,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.163.com/",
+            "time": 1509445621.58045,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.163.com/",
+            "time": 1509445626.40407,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.disqus.com/",
+            "time": 1509445658.507621,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.disqus.com/",
+            "time": 1509445662.571027,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.secureserver.net/",
+            "time": 1509445671.946823,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.secureserver.net/",
+            "time": 1509445677.557683,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.deviantart.com/",
+            "time": 1509445683.332236,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.deviantart.com/",
+            "time": 1509445687.872656,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.beian.gov.cn/",
+            "time": 1509445705.282444,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.beian.gov.cn/",
+            "time": 1509445709.469,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.github.io/",
+            "time": 1509445724.756652,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.github.io/",
+            "time": 1509445729.357197,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.ca/",
+            "time": 1509445741.676328,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.ca/",
+            "time": 1509445746.656778,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rakuten.co.jp/",
+            "time": 1509445754.899919,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rakuten.co.jp/",
+            "time": 1509445759.640195,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.goodreads.com/",
+            "time": 1509445790.637102,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.goodreads.com/",
+            "time": 1509445795.777222,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ca.gov/",
+            "time": 1509445809.030063,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ca.gov/",
+            "time": 1509445814.0306,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.homestead.com/",
+            "time": 1509445826.567861,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.homestead.com/",
+            "time": 1509445830.876169,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.spotify.com/",
+            "time": 1509445838.933091,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.spotify.com/",
+            "time": 1509445843.757089,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.un.org/",
+            "time": 1509445857.226331,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.un.org/",
+            "time": 1509445862.224466,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.who.int/",
+            "time": 1509445874.492776,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.who.int/",
+            "time": 1509445879.510658,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.pbs.org/",
+            "time": 1509445895.806991,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.pbs.org/",
+            "time": 1509445901.692789,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nationalgeographic.com/",
+            "time": 1509445912.507591,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nationalgeographic.com/",
+            "time": 1509445916.716912,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vkontakte.ru/",
+            "time": 1509445925.792247,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vkontakte.ru/",
+            "time": 1509445931.663633,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wiley.com/",
+            "time": 1509445943.734311,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wiley.com/",
+            "time": 1509445947.348754,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.barnesandnoble.com/",
+            "time": 1509445958.383515,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.barnesandnoble.com/",
+            "time": 1509445964.056794,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cbsnews.com/",
+            "time": 1509445979.622191,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cbsnews.com/",
+            "time": 1509445985.578792,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ibm.com/",
+            "time": 1509445999.91807,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ibm.com/",
+            "time": 1509446004.654137,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nbcnews.com/",
+            "time": 1509446017.491441,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nbcnews.com/",
+            "time": 1509446022.625767,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.buzzfeed.com/",
+            "time": 1509446040.577567,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.buzzfeed.com/",
+            "time": 1509446044.758225,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.berkeley.edu/",
+            "time": 1509446054.68362,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.berkeley.edu/",
+            "time": 1509446058.97214,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.foxnews.com/",
+            "time": 1509446067.70202,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.foxnews.com/",
+            "time": 1509446071.134503,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mashable.com/",
+            "time": 1509446087.041207,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mashable.com/",
+            "time": 1509446091.903875,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sohu.com/",
+            "time": 1509446103.172589,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sohu.com/",
+            "time": 1509446107.79757,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theatlantic.com/",
+            "time": 1509446137.467374,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theatlantic.com/",
+            "time": 1509446141.729613,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.com.es/",
+            "time": 1509446186.387556,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.com.es/",
+            "time": 1509446192.160354,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sakura.ne.jp/",
+            "time": 1509446200.897873,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sakura.ne.jp/",
+            "time": 1509446206.156096,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.whitehouse.gov/",
+            "time": 1509446222.049587,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.whitehouse.gov/",
+            "time": 1509446226.35291,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nature.com/",
+            "time": 1509446235.617723,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nature.com/",
+            "time": 1509446242.882553,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.techcrunch.com/",
+            "time": 1509446255.742561,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.techcrunch.com/",
+            "time": 1509446261.291802,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.webmd.com/",
+            "time": 1509446277.069767,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.webmd.com/",
+            "time": 1509446281.860261,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1und1.de/",
+            "time": 1509446295.53224,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1und1.de/",
+            "time": 1509446301.996816,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hostnet.nl/",
+            "time": 1509446315.776072,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hostnet.nl/",
+            "time": 1509446321.174834,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usda.gov/",
+            "time": 1509446340.571894,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usda.gov/",
+            "time": 1509446344.888644,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.themeforest.net/",
+            "time": 1509446355.366154,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.themeforest.net/",
+            "time": 1509446359.836727,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.one.com/",
+            "time": 1509446404.262752,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.one.com/",
+            "time": 1509446410.526876,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cornell.edu/",
+            "time": 1509446425.461444,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cornell.edu/",
+            "time": 1509446430.061399,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.trustpilot.com/",
+            "time": 1509446448.189838,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.trustpilot.com/",
+            "time": 1509446452.770911,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.jiathis.com/",
+            "time": 1509446461.615236,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.jiathis.com/",
+            "time": 1509446466.156735,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.squarespace.com/",
+            "time": 1509446479.184148,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.squarespace.com/",
+            "time": 1509446484.102015,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.php.net/",
+            "time": 1509446508.327748,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.php.net/",
+            "time": 1509446513.321303,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sciencedirect.com/",
+            "time": 1509446520.62582,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sciencedirect.com/",
+            "time": 1509446525.653286,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.4.cn/",
+            "time": 1509446534.861039,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.4.cn/",
+            "time": 1509446541.739036,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.change.org/",
+            "time": 1509446559.665041,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.change.org/",
+            "time": 1509446564.310998,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.de/",
+            "time": 1509446581.736375,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.de/",
+            "time": 1509446588.508894,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.ca/",
+            "time": 1509446597.466323,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.ca/",
+            "time": 1509446603.370694,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.epa.gov/",
+            "time": 1509446612.381467,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.epa.gov/",
+            "time": 1509446617.359974,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.noaa.gov/",
+            "time": 1509446628.230937,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.noaa.gov/",
+            "time": 1509446632.821962,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.line.me/",
+            "time": 1509446643.766182,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.line.me/",
+            "time": 1509446649.159434,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cbc.ca/",
+            "time": 1509446663.41298,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cbc.ca/",
+            "time": 1509446667.235748,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.directdomains.com/",
+            "time": 1509446681.666701,
+            "Status": "HTTPSConnectionPool(host='www.directdomains.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.directdomains.com/",
+            "time": 1509446685.842379,
+            "Status": "HTTPSConnectionPool(host='www.directdomains.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ow.ly/",
+            "time": 1509446697.806496,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ow.ly/",
+            "time": 1509446702.080847,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ft.com/",
+            "time": 1509446711.457397,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ft.com/",
+            "time": 1509446716.318738,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.meetup.com/",
+            "time": 1509446729.439479,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.meetup.com/",
+            "time": 1509446735.197182,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.networksolutions.com/",
+            "time": 1509446746.842705,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.networksolutions.com/",
+            "time": 1509446751.913143,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wp.me/",
+            "time": 1509446764.957826,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wp.me/",
+            "time": 1509446770.45099,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nps.gov/",
+            "time": 1509446783.973528,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nps.gov/",
+            "time": 1509446788.843826,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mapquest.com/",
+            "time": 1509446799.238559,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mapquest.com/",
+            "time": 1509446804.262734,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.technorati.com/",
+            "time": 1509446826.406195,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.technorati.com/",
+            "time": 1509446830.05859,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.springer.com/",
+            "time": 1509446838.693909,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.springer.com/",
+            "time": 1509446844.118956,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.skype.com/",
+            "time": 1509446876.374051,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.skype.com/",
+            "time": 1509446880.171496,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikia.com/",
+            "time": 1509446889.59898,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikia.com/",
+            "time": 1509446893.854794,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.a8.net/",
+            "time": 1509446910.890302,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.a8.net/",
+            "time": 1509446915.809719,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.loc.gov/",
+            "time": 1509446927.556509,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.loc.gov/",
+            "time": 1509446933.160981,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usnews.com/",
+            "time": 1509446943.604119,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usnews.com/",
+            "time": 1509446949.803588,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.booking.com/",
+            "time": 1509446966.04343,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.booking.com/",
+            "time": 1509446972.278007,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ning.com/",
+            "time": 1509446985.383764,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ning.com/",
+            "time": 1509446989.925716,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.economist.com/",
+            "time": 1509446999.679668,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.economist.com/",
+            "time": 1509447005.253263,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sfgate.com/",
+            "time": 1509447026.650036,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sfgate.com/",
+            "time": 1509447030.898703,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cbslocal.com/",
+            "time": 1509447050.081337,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cbslocal.com/",
+            "time": 1509447054.758445,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bizjournals.com/",
+            "time": 1509447078.39073,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bizjournals.com/",
+            "time": 1509447083.766533,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.spiegel.de/",
+            "time": 1509447100.769509,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.spiegel.de/",
+            "time": 1509447105.484817,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.foursquare.com/",
+            "time": 1509447125.833823,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.foursquare.com/",
+            "time": 1509447133.001358,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cloudfront.net/",
+            "time": 1509447142.682262,
+            "Status": "HTTPConnectionPool(host='www.cloudfront.net', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103b859b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cloudfront.net/",
+            "time": 1509447146.026223,
+            "Status": "HTTPConnectionPool(host='www.cloudfront.net', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103a909b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.fr/",
+            "time": 1509447151.235577,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.fr/",
+            "time": 1509447156.640809,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.phoca.cz/",
+            "time": 1509447166.993085,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.phoca.cz/",
+            "time": 1509447172.808871,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.xinhuanet.com/",
+            "time": 1509447187.619896,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.xinhuanet.com/",
+            "time": 1509447192.32656,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.nl/",
+            "time": 1509447205.051178,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.nl/",
+            "time": 1509447210.616956,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fda.gov/",
+            "time": 1509447220.30702,
+            "Status": 403,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fda.gov/",
+            "time": 1509447225.260597,
+            "Status": 403,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wufoo.com/",
+            "time": 1509447232.791723,
+            "Status": "HTTPSConnectionPool(host='www.wufoo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wufoo.com/",
+            "time": 1509447237.062854,
+            "Status": "HTTPSConnectionPool(host='www.wufoo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.acquirethisname.com/",
+            "time": 1509447248.694872,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.acquirethisname.com/",
+            "time": 1509447252.541258,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.detik.com/",
+            "time": 1509447258.015135,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.detik.com/",
+            "time": 1509447262.299925,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.engadget.com/",
+            "time": 1509447281.902667,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.engadget.com/",
+            "time": 1509447286.911898,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.list-manage1.com/",
+            "time": 1509447304.899829,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.list-manage1.com/",
+            "time": 1509447309.457969,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domainname.de/",
+            "time": 1509447316.14524,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domainname.de/",
+            "time": 1509447321.539219,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.abc.net.au/",
+            "time": 1509447333.116165,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.abc.net.au/",
+            "time": 1509447337.398812,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.chicagotribune.com/",
+            "time": 1509447347.309345,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.chicagotribune.com/",
+            "time": 1509447351.97412,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cnbc.com/",
+            "time": 1509447378.024524,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cnbc.com/",
+            "time": 1509447382.205573,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.phpbb.com/",
+            "time": 1509447397.675615,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.phpbb.com/",
+            "time": 1509447402.041342,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gizmodo.com/",
+            "time": 1509447409.170141,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gizmodo.com/",
+            "time": 1509447413.72734,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.myshopify.com/",
+            "time": 1509447431.916279,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.myshopify.com/",
+            "time": 1509447438.060129,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.prnewswire.com/",
+            "time": 1509447446.915421,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.prnewswire.com/",
+            "time": 1509447451.338806,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.getpocket.com/",
+            "time": 1509447462.799893,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.getpocket.com/",
+            "time": 1509447467.655233,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.irs.gov/",
+            "time": 1509447477.06005,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.irs.gov/",
+            "time": 1509447481.556451,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.geocities.jp/",
+            "time": 1509447491.106296,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.geocities.jp/",
+            "time": 1509447498.398243,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.slate.com/",
+            "time": 1509447510.077984,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.slate.com/",
+            "time": 1509447515.536206,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hp.com/",
+            "time": 1509447532.950734,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hp.com/",
+            "time": 1509447538.073899,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.newyorker.com/",
+            "time": 1509447555.673552,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.newyorker.com/",
+            "time": 1509447560.678748,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bigcartel.com/",
+            "time": 1509447579.484265,
+            "Status": "HTTPSConnectionPool(host='www.bigcartel.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bigcartel.com/",
+            "time": 1509447583.278952,
+            "Status": "HTTPSConnectionPool(host='www.bigcartel.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ovh.com/",
+            "time": 1509447594.961848,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ovh.com/",
+            "time": 1509447601.402138,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nhs.uk/",
+            "time": 1509447614.652924,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nhs.uk/",
+            "time": 1509447619.96447,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.com.au/",
+            "time": 1509447627.87334,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.com.au/",
+            "time": 1509447633.122071,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nifty.com/",
+            "time": 1509447643.709594,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nifty.com/",
+            "time": 1509447648.83042,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.about.me/",
+            "time": 1509447667.560055,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.about.me/",
+            "time": 1509447672.568471,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nydailynews.com/",
+            "time": 1509447683.444397,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nydailynews.com/",
+            "time": 1509447687.701088,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.naver.com/",
+            "time": 1509447712.64601,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.naver.com/",
+            "time": 1509447717.699904,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.marriott.com/",
+            "time": 1509447730.211859,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.marriott.com/",
+            "time": 1509447735.255398,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.histats.com/",
+            "time": 1509447748.061067,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.histats.com/",
+            "time": 1509447752.61396,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umich.edu/",
+            "time": 1509447760.568852,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umich.edu/",
+            "time": 1509447764.630368,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.storify.com/",
+            "time": 1509447775.730573,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.storify.com/",
+            "time": 1509447781.237263,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mijndomein.nl/",
+            "time": 1509447792.237071,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mijndomein.nl/",
+            "time": 1509447796.71107,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.livedoor.jp/",
+            "time": 1509447809.599745,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.livedoor.jp/",
+            "time": 1509447814.830796,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fortune.com/",
+            "time": 1509447826.390621,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fortune.com/",
+            "time": 1509447832.408814,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bestfwdservice.com/",
+            "time": 1509447854.344497,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bestfwdservice.com/",
+            "time": 1509447858.113396,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ed.gov/",
+            "time": 1509447870.879343,
+            "Status": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ed.gov/",
+            "time": 1509447875.959401,
+            "Status": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.state.gov/",
+            "time": 1509447885.407045,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.state.gov/",
+            "time": 1509447889.845209,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.clickbank.net/",
+            "time": 1509447903.474477,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.clickbank.net/",
+            "time": 1509447908.177313,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umblr.com/",
+            "time": 1509447921.667723,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umblr.com/",
+            "time": 1509447924.864166,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youku.com/",
+            "time": 1509447932.136884,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youku.com/",
+            "time": 1509447937.084848,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.enable-javascript.com/",
+            "time": 1509447967.116144,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.enable-javascript.com/",
+            "time": 1509447973.222111,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.loopia.se/",
+            "time": 1509447985.722663,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.loopia.se/",
+            "time": 1509447991.578291,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.uol.com.br/",
+            "time": 1509448004.971083,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.uol.com.br/",
+            "time": 1509448011.195834,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.house.gov/",
+            "time": 1509448044.963708,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.house.gov/",
+            "time": 1509448049.712386,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.visma.com/",
+            "time": 1509448059.14753,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.visma.com/",
+            "time": 1509448064.956841,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.loopia.com/",
+            "time": 1509448078.831508,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.loopia.com/",
+            "time": 1509448088.91172,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.weather.com/",
+            "time": 1509448103.228916,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.weather.com/",
+            "time": 1509448108.358027,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.unesco.org/",
+            "time": 1509448119.614138,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.unesco.org/",
+            "time": 1509448126.781769,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vice.com/",
+            "time": 1509448144.936065,
+            "Status": "HTTPSConnectionPool(host='www.vice.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vice.com/",
+            "time": 1509448149.241811,
+            "Status": "HTTPSConnectionPool(host='www.vice.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.indiegogo.com/",
+            "time": 1509448163.700941,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.indiegogo.com/",
+            "time": 1509448169.687898,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ocn.ne.jp/",
+            "time": 1509448178.475725,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ocn.ne.jp/",
+            "time": 1509448184.051017,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.businessweek.com/",
+            "time": 1509448205.951176,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.businessweek.com/",
+            "time": 1509448211.750262,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.com.br/",
+            "time": 1509448230.415182,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.com.br/",
+            "time": 1509448235.244165,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yale.edu/",
+            "time": 1509448243.474422,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.yale.edu/",
+            "time": 1509448248.07124,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.indiatimes.com/",
+            "time": 1509448259.241819,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.indiatimes.com/",
+            "time": 1509448267.122196,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.columbia.edu/",
+            "time": 1509448282.245375,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.columbia.edu/",
+            "time": 1509448286.622258,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.axs.com/",
+            "time": 1509448295.197525,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.axs.com/",
+            "time": 1509448299.173611,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ustream.tv/",
+            "time": 1509448305.376922,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ustream.tv/",
+            "time": 1509448309.092272,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hilton.com/",
+            "time": 1509448322.843539,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hilton.com/",
+            "time": 1509448327.992039,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sogou.com/",
+            "time": 1509448345.581016,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sogou.com/",
+            "time": 1509448352.404008,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rs6.net/",
+            "time": 1509448363.695865,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rs6.net/",
+            "time": 1509448367.540252,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.examiner.com/",
+            "time": 1509448373.451335,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.examiner.com/",
+            "time": 1509448378.828268,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wunderground.com/",
+            "time": 1509448384.513739,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wunderground.com/",
+            "time": 1509448389.945961,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.marketwatch.com/",
+            "time": 1509448405.543139,
+            "Status": "HTTPSConnectionPool(host='www.marketwatch.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.marketwatch.com/",
+            "time": 1509448410.866103,
+            "Status": "HTTPSConnectionPool(host='www.marketwatch.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fb.com/",
+            "time": 1509448422.367958,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fb.com/",
+            "time": 1509448427.466586,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fb.me/",
+            "time": 1509448435.478185,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fb.me/",
+            "time": 1509448440.780377,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dribbble.com/",
+            "time": 1509448451.685088,
+            "Status": "HTTPSConnectionPool(host='dribbble.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dribbble.com/",
+            "time": 1509448456.228192,
+            "Status": "HTTPSConnectionPool(host='dribbble.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.linksynergy.com/",
+            "time": 1509448464.449309,
+            "Status": "HTTPConnectionPool(host='www.linksynergy.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10693c400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.linksynergy.com/",
+            "time": 1509448467.972567,
+            "Status": "HTTPConnectionPool(host='www.linksynergy.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103b85cf8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.upenn.edu/",
+            "time": 1509448472.932227,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.upenn.edu/",
+            "time": 1509448477.169077,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.biglobe.ne.jp/",
+            "time": 1509448486.170794,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.biglobe.ne.jp/",
+            "time": 1509448490.550523,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.doi.org/",
+            "time": 1509448536.012512,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.doi.org/",
+            "time": 1509448540.979517,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.washington.edu/",
+            "time": 1509448548.135949,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.washington.edu/",
+            "time": 1509448553.739424,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sciencedaily.com/",
+            "time": 1509448565.414659,
+            "Status": "HTTPSConnectionPool(host='www.sciencedaily.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sciencedaily.com/",
+            "time": 1509448570.900773,
+            "Status": "HTTPSConnectionPool(host='www.sciencedaily.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.smh.com.au/",
+            "time": 1509448593.012777,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.smh.com.au/",
+            "time": 1509448597.930298,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.boston.com/",
+            "time": 1509448617.772024,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.boston.com/",
+            "time": 1509448622.25715,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.samsung.com/",
+            "time": 1509448645.264479,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.samsung.com/",
+            "time": 1509448650.246733,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.android.com/",
+            "time": 1509448662.999739,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.android.com/",
+            "time": 1509448667.251876,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.houzz.com/",
+            "time": 1509448677.89174,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.houzz.com/",
+            "time": 1509448683.920246,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.pl/",
+            "time": 1509448693.748493,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.pl/",
+            "time": 1509448698.64153,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.plesk.com/",
+            "time": 1509448708.62447,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.plesk.com/",
+            "time": 1509448715.505748,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.senate.gov/",
+            "time": 1509448732.120447,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.senate.gov/",
+            "time": 1509448736.343742,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.alibaba.com/",
+            "time": 1509448747.055484,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.alibaba.com/",
+            "time": 1509448752.45367,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.home.pl/",
+            "time": 1509448762.215026,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.home.pl/",
+            "time": 1509448769.896498,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.goo.ne.jp/",
+            "time": 1509448788.077347,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.goo.ne.jp/",
+            "time": 1509448794.847066,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.aboutcookies.org/",
+            "time": 1509448810.411917,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.aboutcookies.org/",
+            "time": 1509448818.029569,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.oracle.com/",
+            "time": 1509448831.942701,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.oracle.com/",
+            "time": 1509448837.731869,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.archives.gov/",
+            "time": 1509448847.871873,
+            "Status": "HTTPSConnectionPool(host='www.archives.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.archives.gov/",
+            "time": 1509448853.041186,
+            "Status": "HTTPSConnectionPool(host='www.archives.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.zdnet.com/",
+            "time": 1509448861.099423,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.zdnet.com/",
+            "time": 1509448867.138792,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theverge.com/",
+            "time": 1509448877.40194,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theverge.com/",
+            "time": 1509448882.674719,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1688.com/",
+            "time": 1509448898.87366,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1688.com/",
+            "time": 1509448904.731359,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1and1.fr/",
+            "time": 1509448924.484904,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1and1.fr/",
+            "time": 1509448930.693052,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ucla.edu/",
+            "time": 1509448945.154251,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ucla.edu/",
+            "time": 1509448977.485321,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikihow.com/",
+            "time": 1509449012.005421,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wikihow.com/",
+            "time": 1509449017.205747,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theglobeandmail.com/",
+            "time": 1509449030.261978,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.theglobeandmail.com/",
+            "time": 1509449035.872428,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.scientificamerican.com/",
+            "time": 1509449050.961798,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.scientificamerican.com/",
+            "time": 1509449056.397113,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.evernote.com/",
+            "time": 1509449075.638748,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.evernote.com/",
+            "time": 1509449080.183242,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nypost.com/",
+            "time": 1509449090.062967,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nypost.com/",
+            "time": 1509449095.312099,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gofundme.com/",
+            "time": 1509449140.914117,
+            "Status": "HTTPSConnectionPool(host='www.gofundme.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.gofundme.com/",
+            "time": 1509449145.324782,
+            "Status": "HTTPSConnectionPool(host='www.gofundme.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1and1.com/",
+            "time": 1509449158.278726,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.1and1.com/",
+            "time": 1509449165.303743,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mailchimp.com/",
+            "time": 1509449180.08043,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mailchimp.com/",
+            "time": 1509449186.060085,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sedo.com/",
+            "time": 1509449199.799734,
+            "Status": "HTTPSConnectionPool(host='www.sedo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sedo.com/",
+            "time": 1509449204.776053,
+            "Status": "HTTPSConnectionPool(host='www.sedo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.allaboutcookies.org/",
+            "time": 1509449218.47391,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.allaboutcookies.org/",
+            "time": 1509449222.57143,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.debian.org/",
+            "time": 1509449229.113556,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.debian.org/",
+            "time": 1509449234.100497,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fbcdn.net/",
+            "time": 1509449242.63246,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fbcdn.net/",
+            "time": 1509449249.102974,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umn.edu/",
+            "time": 1509449258.550393,
+            "Status": "HTTPSConnectionPool(host='twin-cities.umn.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umn.edu/",
+            "time": 1509449263.671339,
+            "Status": "HTTPSConnectionPool(host='twin-cities.umn.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wisc.edu/",
+            "time": 1509449274.606364,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.wisc.edu/",
+            "time": 1509449279.773383,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.utexas.edu/",
+            "time": 1509449301.232885,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.utexas.edu/",
+            "time": 1509449307.00673,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fastcompany.com/",
+            "time": 1509449315.920412,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fastcompany.com/",
+            "time": 1509449321.908917,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.businesswire.com/",
+            "time": 1509449336.461507,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.businesswire.com/",
+            "time": 1509449341.17265,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ftc.gov/",
+            "time": 1509449355.687461,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ftc.gov/",
+            "time": 1509449360.398431,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.globo.com/",
+            "time": 1509449372.278843,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.globo.com/",
+            "time": 1509449377.251303,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.networkadvertising.org/",
+            "time": 1509449400.108669,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.networkadvertising.org/",
+            "time": 1509449406.364399,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hibu.com/",
+            "time": 1509449420.427985,
+            "Status": "HTTPSConnectionPool(host='hibu.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hibu.com/",
+            "time": 1509449425.335936,
+            "Status": "HTTPSConnectionPool(host='hibu.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.psu.edu/",
+            "time": 1509449444.886986,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.psu.edu/",
+            "time": 1509449450.735315,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.psychologytoday.com/",
+            "time": 1509449463.658412,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.psychologytoday.com/",
+            "time": 1509449468.718741,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shopify.com/",
+            "time": 1509449479.215456,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shopify.com/",
+            "time": 1509449484.347355,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sagepub.com/",
+            "time": 1509449496.278748,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sagepub.com/",
+            "time": 1509449502.148629,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mozilla.com/",
+            "time": 1509449514.138561,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mozilla.com/",
+            "time": 1509449521.049471,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youronlinechoices.com/",
+            "time": 1509449528.897914,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.youronlinechoices.com/",
+            "time": 1509449533.725431,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ox.ac.uk/",
+            "time": 1509449542.771298,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ox.ac.uk/",
+            "time": 1509449547.873019,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bola.net/",
+            "time": 1509449557.670626,
+            "Status": "HTTPSConnectionPool(host='www.bola.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bola.net/",
+            "time": 1509449562.602269,
+            "Status": "HTTPSConnectionPool(host='www.bola.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.campaign-archive1.com/",
+            "time": 1509449578.750647,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.campaign-archive1.com/",
+            "time": 1509449581.971299,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ok.ru/",
+            "time": 1509449591.234003,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ok.ru/",
+            "time": 1509449597.778761,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.walmart.com/",
+            "time": 1509449614.299322,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.walmart.com/",
+            "time": 1509449619.140296,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.campaign-archive2.com/",
+            "time": 1509449634.149621,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.campaign-archive2.com/",
+            "time": 1509449637.978381,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cdbaby.com/",
+            "time": 1509449646.562807,
+            "Status": "HTTPSConnectionPool(host='www.cdbaby.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cdbaby.com/",
+            "time": 1509449651.602309,
+            "Status": "HTTPSConnectionPool(host='www.cdbaby.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.drupal.org/",
+            "time": 1509449661.090851,
+            "Status": "HTTPSConnectionPool(host='www.drupal.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.drupal.org/",
+            "time": 1509449665.071016,
+            "Status": "HTTPSConnectionPool(host='www.drupal.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.census.gov/",
+            "time": 1509449677.281462,
+            "Status": "HTTPSConnectionPool(host='www.census.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.census.gov/",
+            "time": 1509449682.123336,
+            "Status": "HTTPSConnectionPool(host='www.census.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.exblog.jp/",
+            "time": 1509449691.815936,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.exblog.jp/",
+            "time": 1509449697.767368,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.si.edu/",
+            "time": 1509449720.747762,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.si.edu/",
+            "time": 1509449726.687406,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.feedly.com/",
+            "time": 1509449754.612373,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.feedly.com/",
+            "time": 1509449759.84311,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.studiopress.com/",
+            "time": 1509449771.74974,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.studiopress.com/",
+            "time": 1509449777.686822,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sciencemag.org/",
+            "time": 1509449788.111495,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.sciencemag.org/",
+            "time": 1509449791.144043,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.alexa.com/",
+            "time": 1509449805.875696,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.alexa.com/",
+            "time": 1509449814.055498,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.worldbank.org/",
+            "time": 1509449832.501209,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.worldbank.org/",
+            "time": 1509449837.04765,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mirror.co.uk/",
+            "time": 1509449851.147611,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mirror.co.uk/",
+            "time": 1509449855.654086,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.prweb.com/",
+            "time": 1509449901.676457,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.prweb.com/",
+            "time": 1509449907.818586,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.entrepreneur.com/",
+            "time": 1509449924.974254,
+            "Status": "HTTPSConnectionPool(host='www.entrepreneur.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.entrepreneur.com/",
+            "time": 1509449930.456289,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.telegram.me/",
+            "time": 1509449977.256673,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.telegram.me/",
+            "time": 1509449984.674519,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.uk2.net/",
+            "time": 1509449998.330704,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.uk2.net/",
+            "time": 1509450007.267916,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hbr.org/",
+            "time": 1509450028.269596,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hbr.org/",
+            "time": 1509450035.191808,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ap.org/",
+            "time": 1509450061.343089,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ap.org/",
+            "time": 1509450068.571887,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.newsweek.com/",
+            "time": 1509450089.944277,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.newsweek.com/",
+            "time": 1509450094.715263,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.intel.com/",
+            "time": 1509450128.21887,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.intel.com/",
+            "time": 1509450135.168356,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.inc.com/",
+            "time": 1509450151.744036,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.inc.com/",
+            "time": 1509450157.910045,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usgs.gov/",
+            "time": 1509450179.32254,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usgs.gov/",
+            "time": 1509450186.240025,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.namebright.com/",
+            "time": 1509450208.176033,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.namebright.com/",
+            "time": 1509450215.56482,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.icann.org/",
+            "time": 1509450232.690322,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.icann.org/",
+            "time": 1509450238.747647,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.themegrill.com/",
+            "time": 1509450251.242621,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.themegrill.com/",
+            "time": 1509450259.185654,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tripadvisor.co.uk/",
+            "time": 1509450274.75274,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tripadvisor.co.uk/",
+            "time": 1509450281.225742,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shinystat.com/",
+            "time": 1509450299.816764,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shinystat.com/",
+            "time": 1509450308.865499,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nymag.com/",
+            "time": 1509450333.729263,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nymag.com/",
+            "time": 1509450340.567949,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.princeton.edu/",
+            "time": 1509450362.322819,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.princeton.edu/",
+            "time": 1509450370.441122,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rollingstone.com/",
+            "time": 1509450398.963542,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rollingstone.com/",
+            "time": 1509450406.957462,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shareasale.com/",
+            "time": 1509450442.658575,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shareasale.com/",
+            "time": 1509450448.631102,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.target.com/",
+            "time": 1509450458.829926,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.target.com/",
+            "time": 1509450468.010215,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.lemonde.fr/",
+            "time": 1509450493.572318,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.lemonde.fr/",
+            "time": 1509450500.447503,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nazwa.pl/",
+            "time": 1509450530.329622,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nazwa.pl/",
+            "time": 1509450539.334327,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nyu.edu/",
+            "time": 1509450564.467478,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nyu.edu/",
+            "time": 1509450571.694511,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.office.com/",
+            "time": 1509450599.330693,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.office.com/",
+            "time": 1509450606.059093,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.jugem.jp/",
+            "time": 1509450617.564438,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.jugem.jp/",
+            "time": 1509450651.199861,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.odnoklassniki.ru/",
+            "time": 1509450698.318498,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.odnoklassniki.ru/",
+            "time": 1509450707.529334,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rt.com/",
+            "time": 1509450731.381928,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.rt.com/",
+            "time": 1509450740.437355,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.co.in/",
+            "time": 1509450784.501729,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.co.in/",
+            "time": 1509450793.266709,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cisco.com/",
+            "time": 1509450809.96707,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cisco.com/",
+            "time": 1509450818.348184,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cam.ac.uk/",
+            "time": 1509450850.290473,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cam.ac.uk/",
+            "time": 1509450858.608295,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dreamhost.com/",
+            "time": 1509450875.135382,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dreamhost.com/",
+            "time": 1509450887.920762,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.quora.com/",
+            "time": 1509450905.409221,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.quora.com/",
+            "time": 1509450914.963626,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tandfonline.com/",
+            "time": 1509450934.521412,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tandfonline.com/",
+            "time": 1509450943.617349,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.arstechnica.com/",
+            "time": 1509450965.482635,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.arstechnica.com/",
+            "time": 1509450976.195126,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dropboxusercontent.com/",
+            "time": 1509451008.763969,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dropboxusercontent.com/",
+            "time": 1509451017.747331,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.oxfordjournals.org/",
+            "time": 1509451034.750782,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.oxfordjournals.org/",
+            "time": 1509451053.003742,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.t-online.de/",
+            "time": 1509451088.46914,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.t-online.de/",
+            "time": 1509451099.145667,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hhs.gov/",
+            "time": 1509451140.854182,
+            "Status": "HTTPSConnectionPool(host='www.hhs.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hhs.gov/",
+            "time": 1509451151.112259,
+            "Status": "HTTPSConnectionPool(host='www.hhs.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hostgator.com/",
+            "time": 1509451169.087087,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hostgator.com/",
+            "time": 1509451181.059291,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.stackoverflow.com/",
+            "time": 1509451222.530559,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.stackoverflow.com/",
+            "time": 1509451233.827549,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mysql.com/",
+            "time": 1509451257.20492,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mysql.com/",
+            "time": 1509451268.290579,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.360.cn/",
+            "time": 1509451290.56126,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.360.cn/",
+            "time": 1509451300.6584,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.researchgate.net/",
+            "time": 1509451323.436818,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.researchgate.net/",
+            "time": 1509451330.961493,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.politico.com/",
+            "time": 1509451348.294677,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.politico.com/",
+            "time": 1509451354.471034,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.smugmug.com/",
+            "time": 1509451382.721554,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.smugmug.com/",
+            "time": 1509451391.489597,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.fr/",
+            "time": 1509451409.63844,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.fr/",
+            "time": 1509451417.872778,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hubspot.com/",
+            "time": 1509451447.96403,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hubspot.com/",
+            "time": 1509451457.205949,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mlb.com/",
+            "time": 1509451485.96423,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mlb.com/",
+            "time": 1509451496.791654,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tmall.com/",
+            "time": 1509451545.031899,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.tmall.com/",
+            "time": 1509451555.858001,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.discuz.net/",
+            "time": 1509451586.121349,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.discuz.net/",
+            "time": 1509451600.602311,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.example.com/",
+            "time": 1509451636.975111,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.example.com/",
+            "time": 1509451645.25848,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cmu.edu/",
+            "time": 1509451657.438037,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cmu.edu/",
+            "time": 1509451664.92384,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hollywoodreporter.com/",
+            "time": 1509451686.601392,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.hollywoodreporter.com/",
+            "time": 1509451694.393716,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.lifehacker.com/",
+            "time": 1509451728.717911,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.lifehacker.com/",
+            "time": 1509451737.105215,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.box.com/",
+            "time": 1509451779.63754,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.box.com/",
+            "time": 1509451792.487351,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.list-manage2.com/",
+            "time": 1509451817.195885,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.list-manage2.com/",
+            "time": 1509451825.865284,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.uchicago.edu/",
+            "time": 1509451835.669208,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.uchicago.edu/",
+            "time": 1509451843.458743,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.accuweather.com/",
+            "time": 1509451863.741987,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.accuweather.com/",
+            "time": 1509451873.041673,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.zendesk.com/",
+            "time": 1509451933.391262,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.zendesk.com/",
+            "time": 1509451944.560506,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.liveinternet.ru/",
+            "time": 1509451967.578346,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.liveinternet.ru/",
+            "time": 1509451975.071248,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.oecd.org/",
+            "time": 1509451997.440921,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.oecd.org/",
+            "time": 1509452007.501539,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ebay.co.uk/",
+            "time": 1509452029.360418,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ebay.co.uk/",
+            "time": 1509452035.813907,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dropcatch.com/",
+            "time": 1509452055.289369,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dropcatch.com/",
+            "time": 1509452063.684258,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.admin.ch/",
+            "time": 1509452082.761991,
+            "Status": "HTTPSConnectionPool(host='www.admin.ch', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.admin.ch/",
+            "time": 1509452089.081942,
+            "Status": "HTTPSConnectionPool(host='www.admin.ch', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dell.com/",
+            "time": 1509452126.395229,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dell.com/",
+            "time": 1509452135.076024,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bls.gov/",
+            "time": 1509452153.959099,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bls.gov/",
+            "time": 1509452162.088485,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domainnameshop.com/",
+            "time": 1509452183.748987,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domainnameshop.com/",
+            "time": 1509452200.264552,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nhk.or.jp/",
+            "time": 1509452226.464104,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nhk.or.jp/",
+            "time": 1509452231.913036,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.ru/",
+            "time": 1509452258.885077,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.google.ru/",
+            "time": 1509452265.993245,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.istockphoto.com/",
+            "time": 1509452279.146801,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.istockphoto.com/",
+            "time": 1509452285.764902,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.livestream.com/",
+            "time": 1509452296.392491,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.livestream.com/",
+            "time": 1509452304.358564,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umd.edu/",
+            "time": 1509452330.035387,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.umd.edu/",
+            "time": 1509452338.369468,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.safedog.cn/",
+            "time": 1509452370.998317,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.safedog.cn/",
+            "time": 1509452381.460277,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.teamviewer.com/",
+            "time": 1509452411.204725,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.teamviewer.com/",
+            "time": 1509452423.685135,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fotolia.com/",
+            "time": 1509452466.33803,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fotolia.com/",
+            "time": 1509452479.244805,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bmj.com/",
+            "time": 1509452509.043757,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bmj.com/",
+            "time": 1509452521.358546,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shop-pro.jp/",
+            "time": 1509452569.349731,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.shop-pro.jp/",
+            "time": 1509452581.291088,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.va.gov/",
+            "time": 1509452617.744963,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.va.gov/",
+            "time": 1509452631.57777,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domeneshop.no/",
+            "time": 1509452652.807752,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.domeneshop.no/",
+            "time": 1509452667.592928,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cafepress.com/",
+            "time": 1509452700.750299,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cafepress.com/",
+            "time": 1509452712.362986,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.variety.com/",
+            "time": 1509452752.079719,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.variety.com/",
+            "time": 1509452771.508926,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usc.edu/",
+            "time": 1509452830.245092,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usc.edu/",
+            "time": 1509452849.885221,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.openstreetmap.org/",
+            "time": 1509452889.586554,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.openstreetmap.org/",
+            "time": 1509452900.519053,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.adweek.com/",
+            "time": 1509452931.815306,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.adweek.com/",
+            "time": 1509452944.73961,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cryoutcreations.eu/",
+            "time": 1509452974.764585,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.cryoutcreations.eu/",
+            "time": 1509452989.249636,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.apa.org/",
+            "time": 1509453017.242121,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.apa.org/",
+            "time": 1509453025.368391,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nsw.gov.au/",
+            "time": 1509453062.454617,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.nsw.gov.au/",
+            "time": 1509453075.451168,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.jp/",
+            "time": 1509453102.50558,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.blogspot.jp/",
+            "time": 1509453113.47213,
+            "Status": 404,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.netflix.com/",
+            "time": 1509453129.724524,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.netflix.com/",
+            "time": 1509453139.171541,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.unc.edu/",
+            "time": 1509453154.889578,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.unc.edu/",
+            "time": 1509453163.671607,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.att.com/",
+            "time": 1509453183.03946,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.att.com/",
+            "time": 1509453191.626818,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.xiti.com/",
+            "time": 1509453235.865584,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.xiti.com/",
+            "time": 1509453246.268604,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.redcross.org/",
+            "time": 1509453273.462457,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.redcross.org/",
+            "time": 1509453290.226191,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.com.com/",
+            "time": 1509453328.640835,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.com.com/",
+            "time": 1509453340.555012,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.today.com/",
+            "time": 1509453360.715342,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.today.com/",
+            "time": 1509453376.100348,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mtv.com/",
+            "time": 1509453419.865774,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.mtv.com/",
+            "time": 1509453432.30378,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dot.gov/",
+            "time": 1509453457.771092,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.dot.gov/",
+            "time": 1509453470.209339,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ieee.org/",
+            "time": 1509453494.829384,
+            "Status": "HTTPSConnectionPool(host='www.ieee.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ieee.org/",
+            "time": 1509453504.701049,
+            "Status": "HTTPSConnectionPool(host='www.ieee.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.windowsphone.com/",
+            "time": 1509453528.550158,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.windowsphone.com/",
+            "time": 1509453540.234005,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.duke.edu/",
+            "time": 1509453567.320705,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.duke.edu/",
+            "time": 1509453581.154753,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.purdue.edu/",
+            "time": 1509453610.937104,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.purdue.edu/",
+            "time": 1509453632.780189,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.symantec.com/",
+            "time": 1509453658.744048,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.symantec.com/",
+            "time": 1509453675.247528,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.ca/",
+            "time": 1509453717.103436,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.amazon.ca/",
+            "time": 1509453727.778969,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.state.tx.us/",
+            "time": 1509453752.343491,
+            "Status": "HTTPSConnectionPool(host='www.texas.gov', port=443): Max retries exceeded with url: /en/Pages/default.aspx (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.state.tx.us/",
+            "time": 1509453765.221925,
+            "Status": "HTTPSConnectionPool(host='www.texas.gov', port=443): Max retries exceeded with url: /en/Pages/default.aspx (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:645)'),))",
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usa.gov/",
+            "time": 1509453796.368435,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.usa.gov/",
+            "time": 1509453805.877019,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.eventbrite.co.uk/",
+            "time": 1509453828.65026,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.eventbrite.co.uk/",
+            "time": 1509453842.576573,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.army.mil/",
+            "time": 1509453871.816818,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.army.mil/",
+            "time": 1509453884.118356,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.opensource.org/",
+            "time": 1509453911.562267,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.opensource.org/",
+            "time": 1509453924.867416,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ucsd.edu/",
+            "time": 1509453957.323371,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.ucsd.edu/",
+            "time": 1509453969.387722,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.staticflickr.com/",
+            "time": 1509453997.92233,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.staticflickr.com/",
+            "time": 1509454011.749521,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fao.org/",
+            "time": 1509454032.147929,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.fao.org/",
+            "time": 1509454054.187386,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.presscustomizr.com/",
+            "time": 1509454096.29639,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.presscustomizr.com/",
+            "time": 1509454111.683391,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.aliyun.com/",
+            "time": 1509454139.765619,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.aliyun.com/",
+            "time": 1509454153.754116,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vox.com/",
+            "time": 1509454188.803849,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.vox.com/",
+            "time": 1509454204.042941,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.prezi.com/",
+            "time": 1509454252.741399,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.prezi.com/",
+            "time": 1509454269.649312,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bostonglobe.com/",
+            "time": 1509454300.717516,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.bostonglobe.com/",
+            "time": 1509454313.014448,
+            "Status": -1,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.athemes.com/",
+            "time": 1509454360.598214,
+            "Status": 200,
+            "browser": "headed"
+        },
+        {
+            "url": "http://www.athemes.com/",
+            "time": 1509454374.045126,
+            "Status": 200,
+            "browser": "headed"
+        }
+    ]
+}

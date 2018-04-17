@@ -1,0 +1,20 @@
+import json
+import matplotlib.pyplot as plt
+import numpy as np
+import copy
+import timeOutList
+
+with open("timeOutForVPN.txt") as data_file:
+    headless = json.load(data_file)
+
+
+headless = [headless[url] for url in headless]
+headless.sort()
+urlsForHeadless = range(100)
+
+fig = plt.figure()
+ax1 = fig.add_subplot(111)
+ax1.scatter(np.array(urlsForHeadless), np.array(headless), c =  "r")
+plt.show()
+
+

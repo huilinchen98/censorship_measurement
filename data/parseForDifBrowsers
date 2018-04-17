@@ -1,0 +1,55 @@
+import json
+
+with open("MixBrowserTest.txt") as data_file:
+    data = json.load(data_file)
+
+chrome200 = 0
+firefox200 = 0
+chromeTimeout = 0
+firefoxTimeout = 0
+chromeError = 0
+firefoxError = 0
+chromeOther = 0
+firefoxOther = 0
+
+count = 0
+chromeTime = 0
+firefoxTime = 0
+preTime = 1509442393.377201
+
+measurements = data["measurements"]
+for dct in measurements:
+    if count % 2 == 0:
+        if dct["Status"] == -1:
+            chromeTimeout += 1
+        elif dct["Status"] == 200:
+            chrome200 += 1
+        elif type(dct["Status"]) == str:
+            chromeError += 1
+        else:
+            chromeOther += 1
+        chromeTime += dct["time"] - preTime
+        preTime = dct["time"]
+    else:
+        if dct["Status"] == -1:
+            firefoxTimeout += 1
+        elif dct["Status"] == 200:
+            firefox200 += 1
+        elif type(dct["Status"]) == str:
+            firefoxError += 1
+        else:
+            firefoxOther += 1
+        firefoxTime += dct["time"] - preTime
+        preTime = dct["time"]
+    count += 1
+
+print("chrome200 :" + str(chrome200))
+print("chromeOther :" + str(chromeOther))
+print("chromeError :" + str(chromeError))
+print("chromeTimeout :" + str(chromeTimeout))
+print("firefox200 :" + str(firefox200))
+print("firefoxOther :" + str(firefoxOther))
+print("firefoxError :" + str(firefoxError))
+print("firefoxTimeout :" + str(firefoxTimeout))
+print("chromeTime :" + str(chromeTime))
+print("firefoxTime :" + str(firefoxTime))

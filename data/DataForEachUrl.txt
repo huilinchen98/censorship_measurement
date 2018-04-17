@@ -1,0 +1,7002 @@
+{
+    "http://www.github.io/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.abc.net.au/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.domainnameshop.com/": {
+        "headed": {
+            "timeout": 11,
+            "Error": 0,
+            "200": 7,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.taobao.com/": {
+        "headed": {
+            "timeout": 2,
+            "Error": 0,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.intel.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wp.me/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nytimes.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wisc.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.doi.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.prezi.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bloomberg.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.opensource.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hostgator.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.facebook.com/": {
+        "headed": {
+            "timeout": 7,
+            "Error": 1,
+            "200": 10,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.qq.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ning.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nih.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.free.fr/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wordpress.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hatena.ne.jp/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nydailynews.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.myshopify.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.worldbank.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.baidu.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.inc.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bluehost.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.reddit.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 7,
+            "200": 11,
+            "Other": 0
+        }
+    },
+    "http://www.fb.me/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.rakuten.co.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sina.com.cn/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ocn.ne.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bbc.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.purdue.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.flickr.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sagepub.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.accuweather.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.co.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.alibaba.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.github.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.fda.gov/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bostonglobe.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.senate.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.fr/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.lifehacker.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.odnoklassniki.ru/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dropcatch.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hp.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wiley.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.domeneshop.no/": {
+        "headed": {
+            "timeout": 4,
+            "Error": 0,
+            "200": 14,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.globo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nationalgeographic.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ovh.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 1,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dailymail.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nhk.or.jp/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.gravatar.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.fotolia.com/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.fastcompany.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.livestream.com/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.imgur.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ascii.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.themegrill.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tumblr.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.alexa.com/": {
+        "headed": {
+            "timeout": 2,
+            "Error": 0,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.zendesk.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.wp.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.theatlantic.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sogou.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.engadget.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.t.co/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 0,
+            "Other": 18
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.duke.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nifty.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.vice.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.admin.ch/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.columbia.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.soundcloud.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.athemes.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.joomla.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.meetup.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.variety.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.weather.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.uk2.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.php.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.goo.gl/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 0,
+            "Other": 18
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.ca/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.disqus.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.phoca.cz/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 2,
+            "200": 13,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 3,
+            "200": 15,
+            "Other": 0
+        }
+    },
+    "http://www.fb.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.presscustomizr.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.latimes.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.macromedia.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.amazon.co.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 2,
+            "200": 16,
+            "Other": 0
+        }
+    },
+    "http://www.amazonaws.com/": {
+        "headed": {
+            "timeout": 5,
+            "Error": 0,
+            "200": 13,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mailchimp.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.shop-pro.jp/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.imdb.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.themeforest.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.epa.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.umich.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.symantec.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.youku.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ox.ac.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cpanel.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.house.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.plesk.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.nasa.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.indiegogo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.getpocket.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.foursquare.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cryoutcreations.eu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wikia.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.mozilla.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.amazon.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.live.com/": {
+        "headed": {
+            "timeout": 15,
+            "Error": 0,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        }
+    },
+    "http://www.wixsite.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.acquirethisname.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 2,
+            "200": 0,
+            "Other": 13
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.smh.com.au/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hilton.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bigcartel.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.kickstarter.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.phpbb.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.studiopress.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.usa.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.technorati.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.examiner.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.bestfwdservice.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.1and1.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.indiatimes.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.youtu.be/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 10,
+            "200": 8,
+            "Other": 0
+        }
+    },
+    "http://www.bola.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.co.uk/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.apache.org/": {
+        "headed": {
+            "timeout": 18,
+            "Error": 0,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ted.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ibm.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.exblog.jp/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.slideshare.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.theguardian.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.linksynergy.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.1and1.fr/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.state.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.es/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.theverge.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.adweek.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sourceforge.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.un.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.livedoor.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.foxnews.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mtv.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.windowsphone.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.webs.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.campaign-archive1.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 11,
+            "200": 7,
+            "Other": 0
+        }
+    },
+    "http://www.whoisprivacyprotect.com/": {
+        "headed": {
+            "timeout": 18,
+            "Error": 0,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.webmd.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.msn.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.home.pl/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bit.ly/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.rollingstone.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.samsung.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.newsweek.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.telegraph.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.discuz.net/": {
+        "headed": {
+            "timeout": 12,
+            "Error": 0,
+            "200": 6,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.yelp.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.1688.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.newyorker.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dreamhost.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.openstreetmap.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.noaa.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mapquest.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.oxfordjournals.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.buzzfeed.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.marriott.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.medium.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.1und1.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nbcnews.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.namebright.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.co.in/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.safedog.cn/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bls.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dropboxusercontent.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 6,
+            "200": 12,
+            "Other": 0
+        }
+    },
+    "http://www.fc2.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sfgate.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.economist.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.umn.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.gov.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.feedly.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.whitehouse.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ebay.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.one.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.icann.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.constantcontact.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cbsnews.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.europa.eu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.rambler.ru/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.uchicago.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.4.cn/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.office.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.houzz.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.state.tx.us/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.ca.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ucla.edu/": {
+        "headed": {
+            "timeout": 18,
+            "Error": 0,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dropbox.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cisco.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.princeton.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.drupal.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.ed.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.ft.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.psychologytoday.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.wired.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.staticflickr.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 1,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 3,
+            "200": 15,
+            "Other": 0
+        }
+    },
+    "http://www.youronlinechoices.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.boston.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.goo.ne.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hhs.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.gizmodo.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wikimedia.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.delicious.com/": {
+        "headed": {
+            "timeout": 18,
+            "Error": 0,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.eepurl.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.homestead.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.163.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.vimeo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.vkontakte.ru/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.googleusercontent.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 0,
+            "Other": 18
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.ieee.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 12,
+            "Other": 6
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 6,
+            "200": 12,
+            "Other": 0
+        }
+    },
+    "http://www.wunderground.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.spotify.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.directdomains.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nypost.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.yahoo.co.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.loc.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.researchgate.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.storify.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.amazon.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.army.mil/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.jimdo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.enable-javascript.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.com.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mirror.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.linkedin.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sakura.ne.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.liveinternet.ru/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.list-manage2.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.addthis.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.w3.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 3,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.zdnet.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.digg.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.target.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.census.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tandfonline.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ucsd.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nazwa.pl/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.example.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bbc.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.istockphoto.com/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.miibeian.gov.cn/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.networkadvertising.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cmu.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dailymotion.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.stumbleupon.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mlb.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nymag.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.walmart.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.amazon.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.booking.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.dot.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.telegram.me/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mit.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.youtube.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.instagram.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 10,
+            "200": 8,
+            "Other": 0
+        }
+    },
+    "http://www.bbb.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.weebly.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.arstechnica.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.com.br/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.addtoany.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mashable.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.springer.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 3,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 3,
+            "200": 15,
+            "Other": 0
+        }
+    },
+    "http://www.cloudfront.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.ustream.tv/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.list-manage.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.behance.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.squarespace.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bmj.com/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.blogger.com/": {
+        "headed": {
+            "timeout": 2,
+            "Error": 0,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.netflix.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.xing.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.jiathis.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.gofundme.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.cnn.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nsw.gov.au/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.icio.us/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hbr.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nyu.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.paypal.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bandcamp.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.xinhuanet.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sciencedaily.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.line.me/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ow.ly/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.nl/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.oecd.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.oracle.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.yandex.ru/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.shinystat.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.trustpilot.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ap.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cpanel.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 2,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.creativecommons.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.deviantart.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.fr/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.independent.co.uk/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.aol.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.clickbank.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.guardian.co.uk/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cdbaby.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.rs6.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.washington.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.fbcdn.net/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.opera.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.biglobe.ne.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mail.ru/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cloudflare.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.archives.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.today.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.huffingtonpost.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.npr.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.prnewswire.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wikihow.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.miitbeian.gov.cn/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.geocities.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.com.au/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.about.me/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.ru/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bing.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.gnu.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.naver.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.livejournal.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.amazon.ca/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.twitter.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.adobe.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.scientificamerican.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.umd.edu/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.psu.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cnet.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wix.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.loopia.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cornell.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.elegantthemes.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hubspot.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.histats.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hibu.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.entrepreneur.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.who.int/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.t-online.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.loopia.se/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.aboutcookies.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.list-manage1.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.photobucket.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.techcrunch.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mijndomein.nl/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tmall.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ameblo.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 0,
+            "Other": 18
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 17,
+            "200": 1,
+            "Other": 0
+        }
+    },
+    "http://www.utexas.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.dribbble.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.barnesandnoble.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.washingtonpost.com/": {
+        "headed": {
+            "timeout": 4,
+            "Error": 0,
+            "200": 14,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hostnet.nl/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.rt.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.berkeley.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.usatoday.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.chicagotribune.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.e-recht24.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 2,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.buydomains.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.pinterest.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.ca/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.beian.gov.cn/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.archive.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 1,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.axs.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.networksolutions.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.xiti.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.prweb.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 15,
+            "Other": 3
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.360.cn/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.reuters.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.eventbrite.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mozilla.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.etsy.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.slate.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.stackoverflow.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.att.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tinyurl.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.weibo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.visma.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ebay.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.surveymonkey.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.amzn.to/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.yahoo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.va.gov/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.goodreads.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.politico.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.issuu.com/": {
+        "headed": {
+            "timeout": 2,
+            "Error": 0,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.businesswire.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.123-reg.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.com.es/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.feedburner.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wsj.com/": {
+        "headed": {
+            "timeout": 4,
+            "Error": 0,
+            "200": 14,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.time.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.redcross.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.change.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.amazon.fr/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.vk.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.debian.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.forbes.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 15,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.usda.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.fao.org/": {
+        "headed": {
+            "timeout": 13,
+            "Error": 0,
+            "200": 5,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 1,
+            "200": 17,
+            "Other": 0
+        }
+    },
+    "http://www.smugmug.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.typepad.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.domainname.de/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.campaign-archive2.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 9,
+            "200": 9,
+            "Other": 0
+        }
+    },
+    "http://www.domainactive.co/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sohu.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.teamviewer.com/": {
+        "headed": {
+            "timeout": 6,
+            "Error": 0,
+            "200": 12,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.aliyun.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.geocities.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.marketwatch.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.mysql.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cbc.ca/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.microsoft.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.google.pl/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.usc.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.myspace.com/": {
+        "headed": {
+            "timeout": 2,
+            "Error": 0,
+            "200": 16,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.eventbrite.co.uk/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nhs.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.scribd.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.namejet.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.upenn.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.si.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nps.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ok.ru/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.shopify.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.blogspot.jp/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tripadvisor.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.unesco.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.go.com/": {
+        "headed": {
+            "timeout": 12,
+            "Error": 0,
+            "200": 6,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tripod.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.theglobeandmail.com/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 17,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.spiegel.de/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.businessweek.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.51.la/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.usnews.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.detik.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.secureserver.net/": {
+        "headed": {
+            "timeout": 1,
+            "Error": 0,
+            "200": 0,
+            "Other": 17
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.lemonde.fr/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.tripadvisor.co.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.statcounter.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.bizjournals.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.umblr.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 13,
+            "200": 5,
+            "Other": 0
+        }
+    },
+    "http://www.dell.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.uol.com.br/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cbslocal.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wufoo.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 15,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 17,
+            "200": 1,
+            "Other": 0
+        }
+    },
+    "http://www.cnbc.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.evernote.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.pbs.org/": {
+        "headed": {
+            "timeout": 12,
+            "Error": 0,
+            "200": 6,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.businessinsider.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.ftc.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.godaddy.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.android.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.skype.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.vox.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cafepress.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.nature.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.yale.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.fortune.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.usgs.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.harvard.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.about.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.apple.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.unc.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.google.it/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sciencemag.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.irs.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.hollywoodreporter.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wikipedia.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.sciencedirect.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.a8.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cam.ac.uk/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.sedo.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.allaboutcookies.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.wordpress.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.box.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.cdc.gov/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.stanford.edu/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.quora.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.shareasale.com/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.parallels.com/": {
+        "headed": {
+            "timeout": 3,
+            "Error": 0,
+            "200": 15,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.apa.org/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 18,
+            "200": 0,
+            "Other": 0
+        }
+    },
+    "http://www.jugem.jp/": {
+        "headed": {
+            "timeout": 18,
+            "Error": 0,
+            "200": 0,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    },
+    "http://www.doubleclick.net/": {
+        "headed": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        },
+        "headless": {
+            "timeout": 0,
+            "Error": 0,
+            "200": 18,
+            "Other": 0
+        }
+    }
+}
